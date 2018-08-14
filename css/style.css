@@ -990,6 +990,9 @@ a {
 #header .header-nav .social ._500px::before {
   content: '\f26e';
 }
+#gitalk-container {
+  margin: 0 40px;
+}
 .duoshuo {
   padding: 0 40px;
 }

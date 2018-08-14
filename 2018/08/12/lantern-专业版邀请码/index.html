@@ -110,7 +110,7 @@
 
         
             <form id="search-form">
-            <input type="text" id="local-search-input" name="q" placeholder="search..." class="search form-control" autocomplete="off" autocorrect="off" searchonload="true" />
+            <input type="text" id="local-search-input" name="q" placeholder="search..." class="search form-control" autocomplete="off" autocorrect="off" searchonload="false" />
             <i class="fa fa-times" onclick="resetSearch()"></i>
             </form>
             <div id="local-search-result"></div>
@@ -402,6 +402,29 @@
 
 
 
+    
+        <section class="gitalk" id="comments">
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"></link>
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <div id="gitalk-container"></div>
+    <script>
+        var loadComment = function() {
+            var gitalk = new Gitalk({
+                clientID:  '0eb6e8fb271cdef1cc65',
+                clientSecret: '195fd86510961d450258c9b1d1e36a49408c84c8',
+                repo: 'ztz12.github.io',
+                id: window.location.pathname,
+                owner: 'ztz12',
+                admin: 'ztz12',
+                distractionFreeMode: 'true'
+            })
+            gitalk.render('gitalk-container')
+        }
+    </script>
+    
+    <script> loadComment(); </script>
+
+</section>
     
 
 
