@@ -1929,7 +1929,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #1b4ea8;
+  background: #0b889f;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2859,4 +2859,10 @@ pre {
 code,
 pre {
   border: 1px solid #d6d6d6;
+}
+#days {
+  display: block;
+  color: #fffa74;
+  font-size: 14px;
+  margin-top: 15px;
 }
