@@ -1929,7 +1929,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #75ff82;
+  background: #a4ffff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2871,9 +2871,6 @@ pre {
   color: #fffa74;
   font-size: 14px;
   margin-top: 15px;
-}
-.header {
-  background: url("http://ojoba1c98.bkt.clouddn.com/img/header/header_background.jpg");
 }
 .site-subtitle {
   font-size: 15px;
