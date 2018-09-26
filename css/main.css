@@ -1929,7 +1929,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff20ff;
+  background: #555cd5;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2024,7 +2024,6 @@ img:hover {
   overflow: hidden;
   text-overflow: ellipsis;
   text-align: justify;
-  white-space: nowrap;
   line-height: 1.8;
 }
 .post-toc .nav .nav-child {
@@ -2871,6 +2870,9 @@ pre {
   color: #fffa74;
   font-size: 14px;
   margin-top: 15px;
+}
+.header {
+  background: url("https://ztz12yif.oss-cn-hongkong.aliyuncs.com/header_background.jpg?Expires=1537971128&OSSAccessKeyId=TMP.AQHCQsC2V8NZ4l9Uj7ob4DP4f97ryZLbbj4y8gxD0HAcgSmPtWg3dX2sclBeADAtAhUAwPcaZNkUJfNWI9SH7z7_vRjoZKgCFHr_mBrmf4H3iOKpvqINDEEziC5A&Signature=ieTb4IncKnL5Z04ZC5jVOq6BOak%3D");
 }
 .site-subtitle {
   font-size: 15px;
