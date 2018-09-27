@@ -1959,7 +1959,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #0b1433;
+  background: #16ff47;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2892,6 +2892,20 @@ embed {
 .links-of-blogroll-inline .links-of-blogroll-item {
   display: inline-block;
 }
+body {
+  background: url("https://source.unsplash.com/random/1920x1080");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+}
+.main-inner {
+  margin-top: 60px;
+  padding: 60px 60px 60px 60px;
+  background: #fff;
+  opacity: 0.8;
+  min-height: 500px;
+}
 #animate {
   animation: heartAnimate 1.33s ease-in-out infinite;
 }
@@ -2928,7 +2942,7 @@ pre {
   margin-top: 15px;
 }
 .header {
-  background: url("https://ztz12yif.oss-cn-hongkong.aliyuncs.com/header_background.jpg?Expires=1538061227&OSSAccessKeyId=TMP.AQERgLL6G0GaukyeEgMqpfBOVYBUzilA5C6aQ6UDoCCQpzxP6tNBJS4poAwBAAAwLAIUS7Tl-Fha2vuD7n60QZAGWt34E_0CFEIXsVANjUPG-eLfCIVuuqBuxtut&Signature=zwDhRv4y%2B7Cdz9RkJpxoFqcSC78%3D");
+  background: url("http://pfn4mow3w.bkt.clouddn.com/header_background.jpg");
 }
 .site-subtitle {
   font-size: 15px;
