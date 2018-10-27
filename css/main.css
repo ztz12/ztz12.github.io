@@ -1959,7 +1959,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #99508c;
+  background: #f0cdff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2971,7 +2971,7 @@ pre {
   margin-top: 15px;
 }
 .header {
-  background: url("http://pfn4mow3w.bkt.clouddn.com/header_background.jpg");
+  background: url("https://ztz12yif.oss-cn-hongkong.aliyuncs.com/header_background.jpg?Expires=1540623510&OSSAccessKeyId=TMP.AQHSqmFwbElQfFUJCq7Eh8psdgqF9dA8VXZvPvUp-YKSUHsffMRpDGJ_TsUcMC4CFQDFBWvYSmuOT-CkwDfvU92HFJ-UdAIVAMViVrmW9K1QwOOeLAl3CUP2dZYZ&Signature=h8aN%2FLbPipHpkBclttOd%2FegHSNs%3D");
 }
 .site-subtitle {
   font-size: 15px;
