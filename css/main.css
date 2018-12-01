@@ -1959,7 +1959,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffd0e0;
+  background: #d1aaf1;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2971,7 +2971,7 @@ pre {
   margin-top: 15px;
 }
 .header {
-  background: url("http://phaotr0o9.bkt.clouddn.com/header_background.jpg");
+  background: url("https://raw.githubusercontent.com/ztz12/picGo/master/header_background.jpg");
 }
 .site-subtitle {
   font-size: 15px;
